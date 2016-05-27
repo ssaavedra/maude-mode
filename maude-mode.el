@@ -1,4 +1,4 @@
-;;; maude-mode.el -- Emacs mode for the programming language Maude
+;;; maude-mode.el --- An Emacs mode for using Maude -*- mode: emacs-lisp; -*-
 
 ;; Copyright (C) 2004  Free Software Foundation, Inc.
 ;; Copyright (C) 2016  Santiago Saavedra
@@ -909,3 +909,5 @@
 ; by Emacs.  However, I have made some colouring.
 
 (provide 'maude-mode)
+
+;;; maude-mode.el ends here
